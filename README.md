@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Ashutosh%20Vishwakarma&fontAlign=50&fontAlignY=40&fontSize=42&color=gradient&customColorList=0,ff0000,ff7a00,ffef00,00d100,0088ff,6a00ff,ee00ff&animation=twinkling"/>
 </p>
 
-<h3 align="center">💻 MERN Stack Developer | 🌐 Tech Enthusiast | 🎯 Lifelong Learner</h3>
+<h3 align="center">💻 MERN Stack Developer | 🌐  IT guru</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Hi+there!+I+am+Ashutosh+%F0%9F%91%8B;Full+Stack+Web+Developer;React+%7C+Node+%7C+MongoDB+%7C+Express;Always+learning+something+new+%F0%9F%93%9A" alt="Typing SVG" />

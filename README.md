@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm <Your Name> 👋
+**<Your Role> | <2–3 strengths/keywords>**
 
-<!--
-**987Ashutoscoder/987Ashutoscoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Currently building: <project/goal>
+- 🌱 Learning: <tech/tool>
+- 💼 Tech Stack: <primary tools>
+- ✨ Interests: <UI/DSA/backend/etc.>
+- 🔗 Portfolio: <link> | 📧 <email>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
+- **<Proj 1>** — <one-liner> ([Repo](<link>))
+- **<Proj 2>** — <one-liner> ([Repo](<link>))
+- **<Proj 3>** — <one-liner> ([Repo](<link>))
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=<yourusername>&label=Profile%20views)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<yourusername>&show_icons=true&rank_icon=github)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=<yourusername>)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<yourusername>&layout=compact)
+
+---
+
+### Let’s Collaborate
+Open to internships, freelance, and open-source collabs.  
+**Connect:** [LinkedIn](<link>) · [Twitter](<link>) · [Portfolio](<link>)

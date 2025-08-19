@@ -1,51 +1,75 @@
-<h1 align="center">Hi 👋, I'm Ashutosh</h1>
-<h3 align="center">🚀 Full Stack Web Developer | Tech Enthusiast | Lifelong Learner</h3>
+<!-- HEADER -->
+<h1 align="center">🚀 Ashutosh Vishwakarma here!</h1>
+<h3 align="center">💻 MERN Stack Developer | 🌐 Tech Enthusiast | 🎯 Lifelong Learner</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Hi+there!+I+am+Ashutosh+%F0%9F%91%8B;Full+Stack+Web+Developer;React+%7C+Node+%7C+MongoDB+%7C+Express;Love+to+build+cool+web+apps!;Always+learning+something+new+%F0%9F%93%9A" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🌟 About Me  
-- 🔭 Currently working on **MERN Stack Projects**  
-- 🌱 Learning **DevOps & Cloud**  
-- 💬 Ask me about **Java, JavaScript, Node.js, React, MongoDB**  
-- 📫 Reach me at **yourmail@gmail.com**  
+## 🚀 About Me
+
+- 🔭 Currently working on: **Career Explorer & Data Platforms**  
+- 🌱 Learning: **Next.js + TypeScript + DevOps**  
+- 🔧 Tech Stack: React ⚛️ | Node.js 🟢 | Express 🚂 | MongoDB 🍃  
+- 💡 Passionate about clean code, UI/UX and solving problems  
+- 🌐 Portfolio: *(coming soon)*  
+- 📬 Reach me: **ashutosh.vishwakarma2004@gmail.com**
 
 ---
 
-### 🤝 Connect with me:
-<a href="https://linkedin.com/in/yourprofile" target="blank">
-<img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
-</a>
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashu37" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:ashutosh.vishwakarma2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 🛠 Tech Stack I Work With
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+## 🧠 Tech Stack I Work With
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,tailwind,typescript,git,postman,mysql,aws" />
+</p>
 
 ---
 
-### 📊 GitHub Stats  
-![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+## 📈 GitHub Stats That Matter
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=987Ashutoscoder&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=987Ashutoscoder&layout=compact&theme=tokyonight&border_radius=10" width="48%" />
+</p>
 
 ---
 
-### 🚀 Featured Projects
+## 🔥 My Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=987Ashutoscoder&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
 | Project | Description | Tech |
-|---------|-------------|------|
-| [Project 1](#) | Some description | React, Node.js, MongoDB |
-| [Project 2](#) | Some description | HTML, CSS, JS |
-| [Portfolio](#) | My personal portfolio website | HTML, CSS, JS |
+|--------|-------------|------|
+| [**Bloom Build Bridge**](https://github.com/987Ashutoscoder/bloom-build-bridge) | A TypeScript project for bridging build workflows. | TypeScript |
+| [**Compass Career Explorer**](https://github.com/987Ashutoscoder/compass-career-explorer) | Explore career options with interactive data insights. | TypeScript |
+| [**Excel Analytical Platform**](https://github.com/987Ashutoscoder/Excel-Analytical-Platform-37) | Upload Excel files, analyze data & generate charts. | JavaScript |
+| [**Portfolio Website**](#) | My personal portfolio (coming soon). | HTML, CSS, JS |
 
 ---
 
-### ✨ Let's Collaborate!  
-I’m open for **internships, freelance projects, and collaborations** 🚀
+### 🎯 Let's Collaborate!
+> I'm open for internships, freelance work, open-source collabs or just tech talks! Let's build something amazing 🚀
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0aa9ff&height=120&section=footer"/>
+</p>

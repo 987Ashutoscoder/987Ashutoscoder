@@ -48,10 +48,10 @@
 
 ---
 
-## 🔥 My Contribution Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=987Ashutoscoder&hide_border=true&background=FFFFFF00&ring=FF6A00&fire=FFD400&currStreakLabel=6A00FF&sideLabels=00D100&dates=0088FF" />
-</p>
+### 📈 Contribution Graph
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ---
 
